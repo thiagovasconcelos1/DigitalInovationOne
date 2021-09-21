@@ -8,7 +8,7 @@
 <!--xAboutx-->
 <h1 align="center">Desafios dos Bootcamps realizados na Digital Inovation One</h1>
 
-Algumas dos aprendizados na [Digital Innovation One](https://digitalinnovation.one/faq.)
+Alguns aprendizados na [Digital Innovation One](https://digitalinnovation.one/faq.)
  
  <!--xiconsx-->
    <!-- xCx -->
