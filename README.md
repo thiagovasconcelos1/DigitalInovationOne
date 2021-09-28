@@ -38,6 +38,7 @@ Alguns aprendizados na [Digital Innovation One](https://digitalinnovation.one/fa
    <div>
      <h4>Projeto | Project APP</h4>
      <a href="https://github.com/viegox1/DigitalInovationOne/tree/main/dotnet/Series%20registration%20APP"> APP de cadastro de séries | Series registration APP</a><br/>
+     <a href=""> Catálogo de jogos | Game Catlog</a><br/>
    </div>
 </details>
                                                                                                                                       
