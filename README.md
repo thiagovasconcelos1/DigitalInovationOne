@@ -13,9 +13,9 @@ Alguns aprendizados na [Digital Innovation One](https://digitalinnovation.one/fa
  <!--xiconsx-->
    <!-- xCx -->
 <p align="left">
-  <a href="https://github.com/viegox1/DigitalInovationOne/tree/main/Csharp" <a/> 
+  <a href="https://github.com/thiagovasconcelos1/DigitalInovationOne/tree/main/Csharp" <a/> 
   <img src="assets/c1.png "c1" tittle="c1" height="134" width="150">
-  <a href="https://github.com/viegox1/DigitalInovationOne/tree/main/dotnet"<a/>                                                                 
+  <a href="https://github.com/thiagovasconcelos1/DigitalInovationOne/tree/main/dotnet"<a/>                                                                 
    <img src="assets/.net.png "dotnet" tittle="donet" height="134" width="150">                                                          
 </p>
                                                                                                                                                                                                     
@@ -25,8 +25,8 @@ Alguns aprendizados na [Digital Innovation One](https://digitalinnovation.one/fa
  <details>                                        
    <div>
     <h4>Desafios simples de matemática | Basic Math Challenges</h4>
-    <a href="https://github.com/viegox1/DigitalInovationOne/tree/main/Csharp/Basic%20Math%20Challenges">Simples soma | simple sum</a><br/>
-    <a href="https://github.com/viegox1/DigitalInovationOne/tree/main/Csharp/Basic%20Math%20Challenges">Switch Case</a><br/>
+    <a href="https://github.com/thiagovasconcelos1/DigitalInovationOne/tree/main/Csharp/Basic%20Math%20Challenges">Simples soma | simple sum</a><br/>
+    <a href="https://github.com/thiagovasconcelos1/DigitalInovationOne/tree/main/Csharp/Basic%20Math%20Challenges">Switch Case</a><br/>
   </div> 
   <summary><span>C#</span></summary>  
   <p></p>
@@ -37,7 +37,7 @@ Alguns aprendizados na [Digital Innovation One](https://digitalinnovation.one/fa
   <summary><span>.NET</span></summary>  
    <div>
      <h4>Projeto | Project APP</h4>
-     <a href="https://github.com/viegox1/DigitalInovationOne/tree/main/dotnet/Series%20registration%20APP"> APP de cadastro de séries | Series registration APP</a><br/>
+     <a href="https://github.com/thiagovasconcelos1/DigitalInovationOne/tree/main/dotnet/Series%20registration%20APP"> APP de cadastro de séries | Series registration APP</a><br/>
      <a href="https://github.com/thiagovasconcelos1/DigitalInovationOne/tree/main/dotnet/Game%20Catlog"> Catálogo de jogos | Game Catlog</a><br/>
    </div>
 </details>
